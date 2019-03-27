@@ -12,6 +12,7 @@ mejor las clases.
 
 * Definición y conceptos (0'5 horas).
   * Cloud computing como modelo de prestación de servicios.
+  * Visión general de los proveedores Cloud más importantes: AWS, GCP, Azure.
 * Lenguajes de desarrollo moderno de aplicaciones (4 horas).
   * Javascript, Ruby, Perl 6 como lenguajes de scripting.
   * Go, Scala como lenguajes compilados.
